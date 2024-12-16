@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Aksi-pro-react/static/css/main.52803368.chunk.css",
+    "main.js": "/Aksi-pro-react/static/js/main.ec19f53d.chunk.js",
+    "main.js.map": "/Aksi-pro-react/static/js/main.ec19f53d.chunk.js.map",
+    "runtime-main.js": "/Aksi-pro-react/static/js/runtime-main.6594661e.js",
+    "runtime-main.js.map": "/Aksi-pro-react/static/js/runtime-main.6594661e.js.map",
+    "static/js/2.f36f0adb.chunk.js": "/Aksi-pro-react/static/js/2.f36f0adb.chunk.js",
+    "static/js/2.f36f0adb.chunk.js.map": "/Aksi-pro-react/static/js/2.f36f0adb.chunk.js.map",
+    "index.html": "/Aksi-pro-react/index.html",
+    "static/css/main.52803368.chunk.css.map": "/Aksi-pro-react/static/css/main.52803368.chunk.css.map",
+    "static/js/2.f36f0adb.chunk.js.LICENSE.txt": "/Aksi-pro-react/static/js/2.f36f0adb.chunk.js.LICENSE.txt",
+    "static/media/Banners.5a59a449.png": "/Aksi-pro-react/static/media/Banners.5a59a449.png",
+    "static/media/Frame1.2f3cc43d.png": "/Aksi-pro-react/static/media/Frame1.2f3cc43d.png",
+    "static/media/Frame2.9932b7e0.png": "/Aksi-pro-react/static/media/Frame2.9932b7e0.png",
+    "static/media/Frame3.86a6d132.png": "/Aksi-pro-react/static/media/Frame3.86a6d132.png",
+    "static/media/Frame4.b91e1ec5.png": "/Aksi-pro-react/static/media/Frame4.b91e1ec5.png",
+    "static/media/Frame5.aa28858c.png": "/Aksi-pro-react/static/media/Frame5.aa28858c.png",
+    "static/media/Frame6.ac2adf21.png": "/Aksi-pro-react/static/media/Frame6.ac2adf21.png",
+    "static/media/Frame7.f9771792.png": "/Aksi-pro-react/static/media/Frame7.f9771792.png",
+    "static/media/Frame8.107f6bad.png": "/Aksi-pro-react/static/media/Frame8.107f6bad.png",
+    "static/media/Frame9.c61a87b2.png": "/Aksi-pro-react/static/media/Frame9.c61a87b2.png",
+    "static/media/admin.7775d02e.png": "/Aksi-pro-react/static/media/admin.7775d02e.png",
+    "static/media/admin2.1a1019fc.png": "/Aksi-pro-react/static/media/admin2.1a1019fc.png",
+    "static/media/admin3.a0b1977b.png": "/Aksi-pro-react/static/media/admin3.a0b1977b.png",
+    "static/media/admin4.fcddedd4.png": "/Aksi-pro-react/static/media/admin4.fcddedd4.png",
+    "static/media/image.7875fab2.png": "/Aksi-pro-react/static/media/image.7875fab2.png",
+    "static/media/image2.6bb832b6.png": "/Aksi-pro-react/static/media/image2.6bb832b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6594661e.js",
+    "static/js/2.f36f0adb.chunk.js",
+    "static/css/main.52803368.chunk.css",
+    "static/js/main.ec19f53d.chunk.js"
+  ]
+}
